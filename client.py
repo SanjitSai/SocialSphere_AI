@@ -34,7 +34,7 @@ async def main():
     # Ask it to use MCP tools
     #query = f'''summarise me this blog in 10-12 lines: https://medium.com/@daven_96113/you-say-soft-skills-i-say-nice-career-you-got-there-ac00eb6172d2'''
     result = await agent.run(#query
-   """Email to Revanth Javaji at revanthjavaji@jocata.com working at Nvidia
+   """Email to XYZ at xyz@somecompany.com working at ABC
   about brand collaboration idea. Make it friendly. Also do web search about latest thing about Company and add in email if needed."""
 )
 
